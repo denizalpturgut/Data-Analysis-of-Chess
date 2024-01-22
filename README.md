@@ -1,1 +1,1 @@
-# Data-Analysis-of-Chess
+# CTIS 365 Group Project
